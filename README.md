@@ -35,7 +35,3 @@ I'm currently studying the third year of Computer Engineering at Universidad Eur
 - [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](mailto:marioucedayeves@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mario-Uceda)
-
-<p align="center">
-  <q>It's not a bug - it's an undocumented feature.</q>
-</p>
