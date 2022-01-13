@@ -27,7 +27,7 @@ I'm currently studying the third year of Computer Engineering at Universidad Eur
 ## 💻 My stats
 <div align=”center”>
   <img height = "150" src="https://github-readme-stats.vercel.app/api?username=Mario-Uceda&theme=dark&hide=prs,issues&include_all_commits=true" />
-  <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Uceda&exclude_repo=&theme=radical&layout=compact" />
+  <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Uceda&exclude_repo=&theme=dark&layout=compact" />
 </div>
 
 ## 💬 Contact me
