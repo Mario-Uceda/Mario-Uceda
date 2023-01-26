@@ -1,8 +1,8 @@
 # Mario Uceda Yeves
-Hi, I'm Mario, a 21 year old developer from Madrid, Spain.
+Hi, I'm Mario, a 22 year old developer from Madrid, Spain.
 
 ## 📚 What am I studying now?
-I'm currently studying the third year of Computer Engineering at Universidad Europea.
+I'm currently studying the last year of Computer Engineering at Universidad Europea.
 
 ## 👨‍🎓 What courses have I done?
 - Higher degree of cross-platform application development
