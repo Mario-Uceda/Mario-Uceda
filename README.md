@@ -25,6 +25,11 @@ I'm currently studying the last year of Computer Engineering at Universidad Euro
 <div align=”center”>
   <img height = "150" src="https://github-readme-stats.vercel.app/api?username=Mario-Uceda&theme=dark&hide=prs,issues&include_all_commits=true" />
   <img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Uceda&theme=dark&layout=compact" />
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mario-Uceda&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Mario-Uceda" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mario-Uceda&theme=dark&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="Mario-Uceda" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Uceda&theme=dark&" alt="Mario-Uceda" /></p>
 </div>
 
 ## 💬 Contact me
