@@ -23,17 +23,13 @@ I'm currently studying the last year of Computer Engineering at Universidad Euro
 
 ## 💻 My stats
 <div align=”center”>
-  //<img height = "150" src="https://github-readme-stats.vercel.app/api?username=Mario-Uceda&theme=dark&hide=prs,issues&include_all_commits=true" />
-  //<img height = "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Uceda&theme=dark&layout=compact" />
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mario-Uceda&theme=dark&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Mario-Uceda" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mario-Uceda&theme=dark&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="Mario-Uceda" />
-
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Uceda&theme=dark&" alt="Mario-Uceda" />
 </div>
 
 ## 💬 Contact me
-- [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/mario-uceda-yeves-7655251ab/)
+- [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=Linkedin&logoColor=white&color=506ad4)](https://www.linkedin.com/in/mario-uceda-yeves/)
 - [![](https://img.shields.io/badge/-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=506ad4)](mailto:marioucedayeves@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mario-Uceda)
